@@ -1,0 +1,4 @@
+#Thu Apr 21 11:47:38 MMT 2022
+base.0=/Users/zarnibwar/Desktop/Source Codes/AK Enterprise/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
